@@ -1,0 +1,6 @@
+{
+  "name": "The Launchpad Community",
+  "description": "Bridging Learning & Opportunity. A free, members-based community equipping students, graduates, and young professionals with the mindset, skills, and opportunities to thrive.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
